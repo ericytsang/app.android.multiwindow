@@ -2,6 +2,6 @@
 title: Privacy Policy
 ---
 
-{% navbar.md %}
+{% include navbar.html %}
 
 blah blah blah
