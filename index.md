@@ -1,5 +1,7 @@
-**Pro Tips & FAQs** | [Privacy Policy](https://github.com/ericytsang/app.android.multiwindow/edit/master/privacy_policy.md)
+**Pro Tips & FAQs** | [Privacy Policy](https://ericytsang.github.io/app.android.multiwindow/privacy_policy.html)
 
 # Pro Tips
+123
 
 # Frequently Asked Questions
+ABC
