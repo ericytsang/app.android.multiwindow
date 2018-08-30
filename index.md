@@ -2,7 +2,7 @@
 title: Pro Tips & FAQs
 ---
 
-{% navbar.md %}
+{% include navbar.html %}
 
 # Pro Tips
 123
