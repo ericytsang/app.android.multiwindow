@@ -1,4 +1,7 @@
-[Pro Tips & FAQs](https://ericytsang.github.io/app.android.multiwindow/index.html) | **Privacy Policy**
+---
+title: Privacy Policy
+---
 
-# Privacy Policy
+{% navbar.md %}
+
 blah blah blah
