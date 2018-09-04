@@ -24,4 +24,4 @@ Split screen can only be toggled on when there is an app other than the home scr
 See [Enable split-screen mode for more apps](#enable-split-screen-mode-for-more-apps)
 
 ## Why is split-screen mode turning on then off right away?
-Your phone may already come with the split-screen shortcut. Go into the Split Screen app's settings, and turn off the tigger that's causing this issue. Alternatively, uninstall our Split Screen app.
+Your phone may already come with the split-screen shortcut. Go into the Split Screen app's settings, and turn off the trigger that's causing this issue. Alternatively, uninstall the Split Screen app.
