@@ -9,7 +9,7 @@ title: Pro Tips & FAQs
 Some apps like [Facebook Messenger](https://play.google.com/store/apps/details?id=com.facebook.orca), [LINE](https://play.google.com/store/apps/details?id=jp.naver.line.android), and [Google Duo](https://play.google.com/store/apps/details?id=com.google.android.apps.tachyon) don't support split-screen mode. To force them to allow split-screen mode:
 
 1. [enable _developer settings_ on the phone](https://developer.android.com/studio/debug/dev-options#enable) if it isn't already.
-2. enable the **Settings** > **System** > **Developer options** > **Force activities to be re-sizable** option.
+2. enable the **Settings** > **System** > **Developer options** > **Force activities to be re-sizable** option. (_Force activities to be re-sizable_ is at the very bottom...)
 3. restart the phone.
 4. done! split-screen mode should work on tons more apps now.
 
