@@ -15,6 +15,9 @@ Some apps like [Facebook Messenger](https://play.google.com/store/apps/details?i
 
 Unfortunately, some apps like [Instagram](https://play.google.com/store/apps/details?id=com.instagram.android) will crash if put into split-screen mode. And other apps like the homescreen, and [Google Assistant](https://play.google.com/store/apps/details?id=com.google.android.apps.googleassistant) still disallow split-screen mode.
 
+## Change long press duration
+This can be changed in the Android Settings: **Settings** > **Accessibility** > **Touch & hold delay**.
+
 # Frequently Asked Questions
 
 ## Why isn't Split screen working on the home screen?
