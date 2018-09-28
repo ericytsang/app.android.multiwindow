@@ -9,7 +9,7 @@ title: Pro Tips & FAQs
 Some apps like [Facebook Messenger](https://play.google.com/store/apps/details?id=com.facebook.orca), [LINE](https://play.google.com/store/apps/details?id=jp.naver.line.android), and [Google Duo](https://play.google.com/store/apps/details?id=com.google.android.apps.tachyon) don't support split-screen mode. To force them to allow split-screen mode:
 
 1. [enable _developer settings_ on the phone](https://developer.android.com/studio/debug/dev-options#enable) if it isn't already.
-2. open Android's **Settings** App.
+2. open Android's **Settings** app.
 3. enable the **System** > **Developer options** > **Force activities to be re-sizable** option. (it should be at the very bottom...)
 5. restart the phone.
 6. done! split-screen mode should work on tons more apps now.
@@ -17,7 +17,7 @@ Some apps like [Facebook Messenger](https://play.google.com/store/apps/details?i
 Unfortunately, some apps like [Instagram](https://play.google.com/store/apps/details?id=com.instagram.android) may crash if put into split-screen mode. And other apps like the homescreen, and [Google Assistant](https://play.google.com/store/apps/details?id=com.google.android.apps.googleassistant) still disallow split-screen mode.
 
 ## Change long press duration
-This can be changed in Android's **Settings** App in: **Accessibility** > **Touch & hold delay**.
+This can be changed in Android's **Settings** app in: **Accessibility** > **Touch & hold delay**.
 
 # Frequently Asked Questions
 
