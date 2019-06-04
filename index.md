@@ -35,3 +35,15 @@ Some phones already come with a split-screen shortcut; this app, and the system 
 
 ## Why does the accessibility service keep turning off by itself?
 This happens because of overly aggressigve *"battery optimization"*. Split Screen has no control over this. On most devices, you can disable app optimization for Split Screen in Android's Settings to stop it from disabling the accessibility service. This is usually found in `Settings > Battery`, and sometimes in `Apps & Notifications > Special app access > Battery optimization`.
+
+## How do I use my home button to toggle split screen mode?
+## Why does it act so buggy when I try to use the _"Long press on..."_ > _"Home"_ option?
+Many phones have a default action pre-bound to long pressing the home button (e.g. Google Assistat). This interfere's with **Split Screen Shortcut**.
+
+To properly set up the home button option:
+
+1. Disable the **Assist app**
+    * Go to your Android's **Settings** > **Apps & notifications** > **Default apps** > **Assist & voice input** > **Assist app** > choose **None**
+1. Enable toggling split-screen mode using your **home button**.
+    * Go to **Split Screen Shortcut** > **Long press on...** > enable **Home**
+1. Done! Enjoy glitch-free multitasking!
