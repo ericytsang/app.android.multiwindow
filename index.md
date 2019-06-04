@@ -34,7 +34,7 @@ See [Enable force split-screen](#enable-split-screen-mode-for-more-apps).
 Some phones already come with a split-screen shortcut; this app, and the system shortcut could be interfering with each other. Go into the Split Screen app's settings, and turn off the trigger that's causing this issue. Alternatively, uninstall the Split Screen app.
 
 ## Why does the accessibility service keep turning off by itself?
-This happens because of overly aggressigve *"battery optimization"*. Split Screen has no control over this. On most devices, you can disable app optimization for Split Screen in Android's Settings to stop it from disabling the accessibility service. This is usually found in `Settings > Battery`, and sometimes in `Apps & Notifications > Special app access > Battery optimization`.
+This happens because of overly aggressigve *"battery optimization"*. Split Screen has no control over this. On most devices, you can disable app optimization for Split Screen in Android's Settings to stop it from disabling the accessibility service. This is usually found in **Settings** > **Battery**, and sometimes in **Apps & Notifications** > **Special app access** > **Battery optimization**.
 
 ## How do I use my home button to toggle split screen mode?<br/>Why does it act so buggy when I try to use the _"Long press on..."_ > _"Home"_ option?
 
