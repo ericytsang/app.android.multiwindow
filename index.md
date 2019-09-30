@@ -24,6 +24,9 @@ To change the long press duration:
 
 # Frequently Asked Questions
 
+## Why does only of the split screen work at a time, and the other gets paused?, can both be running at the same time?
+Unfortunately this behaviour is out of Split Screen's. It's a limitation of Android's split screen mode where only the last-touched-app is allowed to be fully active. https://developer.android.com/guide/topics/ui/multi-window#lifecycle
+
 ## Why isn't Split screen working on the home screen?
 An app must be open before split-screen mode can be activated. (e.g. YouTube)
 
